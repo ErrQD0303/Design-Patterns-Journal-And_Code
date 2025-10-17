@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOLID-Liskov_Substitution_P
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOLID-Interface_Segregation_Principle", "Code\SOLID-Interface_Segregation_Principle\SOLID-Interface_Segregation_Principle.csproj", "{A4A92B26-D721-42AF-8C99-9719358A8956}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Creational_Pattern-Builder", "Code\Creational_Pattern-Builder\Creational_Pattern-Builder.csproj", "{147AEB23-3121-4EA1-A93D-D2271621B16A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -71,6 +73,18 @@ Global
 		{A4A92B26-D721-42AF-8C99-9719358A8956}.Release|x64.Build.0 = Release|Any CPU
 		{A4A92B26-D721-42AF-8C99-9719358A8956}.Release|x86.ActiveCfg = Release|Any CPU
 		{A4A92B26-D721-42AF-8C99-9719358A8956}.Release|x86.Build.0 = Release|Any CPU
+		{147AEB23-3121-4EA1-A93D-D2271621B16A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{147AEB23-3121-4EA1-A93D-D2271621B16A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{147AEB23-3121-4EA1-A93D-D2271621B16A}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{147AEB23-3121-4EA1-A93D-D2271621B16A}.Debug|x64.Build.0 = Debug|Any CPU
+		{147AEB23-3121-4EA1-A93D-D2271621B16A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{147AEB23-3121-4EA1-A93D-D2271621B16A}.Debug|x86.Build.0 = Debug|Any CPU
+		{147AEB23-3121-4EA1-A93D-D2271621B16A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{147AEB23-3121-4EA1-A93D-D2271621B16A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{147AEB23-3121-4EA1-A93D-D2271621B16A}.Release|x64.ActiveCfg = Release|Any CPU
+		{147AEB23-3121-4EA1-A93D-D2271621B16A}.Release|x64.Build.0 = Release|Any CPU
+		{147AEB23-3121-4EA1-A93D-D2271621B16A}.Release|x86.ActiveCfg = Release|Any CPU
+		{147AEB23-3121-4EA1-A93D-D2271621B16A}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -80,5 +94,6 @@ Global
 		{403531B0-FFD4-46A8-9108-E0CC70971BE8} = {314C6247-30EA-3492-19B6-DF847E3B326F}
 		{43DAA551-66E6-4098-9DBE-E87124EB1E58} = {314C6247-30EA-3492-19B6-DF847E3B326F}
 		{A4A92B26-D721-42AF-8C99-9719358A8956} = {314C6247-30EA-3492-19B6-DF847E3B326F}
+		{147AEB23-3121-4EA1-A93D-D2271621B16A} = {314C6247-30EA-3492-19B6-DF847E3B326F}
 	EndGlobalSection
 EndGlobal
