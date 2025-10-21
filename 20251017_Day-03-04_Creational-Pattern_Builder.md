@@ -1,4 +1,4 @@
-# 🧱 Design Pattern Journal — 2025-10-17 2025-10-18 Day 01-02: Creational Pattern:Builder
+# 🧱 Design Pattern Journal — 2025-10-17->2025-10-21 Day 03->07: Creational Pattern:Builder
 
 **Pattern:** Builder
 **Category:** Creational
