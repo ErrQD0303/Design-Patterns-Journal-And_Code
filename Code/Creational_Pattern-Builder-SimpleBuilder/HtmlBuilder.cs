@@ -1,0 +1,24 @@
+namespace Creational_Pattern_Builder_SimpleBuilder;
+
+public class HtmlBuilder
+{
+    private readonly string rootName;
+    protected HtmlElement root = new();
+
+    public HtmlBuilder(string rootName)
+    {
+        this.rootName = rootName;
+        root.Name = rootName;
+    }
+
+    public void AddChild(string childName, string childText)
+    {
+        var e = new HtmlElement(childName, childText);
+        root.Elements.Add(e);
+    }
+
+    public override string ToString()
+    {
+        return root.ToString();
+    }
+}
